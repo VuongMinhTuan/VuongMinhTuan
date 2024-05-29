@@ -7,5 +7,5 @@
 
 ## Contact
 - Mail: vuongminhtuan10@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tu%E1%BA%A5n-v%C6%B0%C6%A1ng-minh-3170b6215/
+- LinkedIn: www.linkedin.com/in/tuấn-vương-minh-3170b6215
 ---
