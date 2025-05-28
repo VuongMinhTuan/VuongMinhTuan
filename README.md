@@ -1,7 +1,7 @@
 <h1 align="center">Tuan Vuong Minh</h1>
 
 ## About me
-- I am an AI Engineer enrolled Bachelor’s degree in Artificial Intelligence at FPT University. I have strong proficiency in programming language such as Python, solid understanding of machine learning or deep learning techniques and algorithms. I believe that with passion and dedication for AI, I will continue to develop and perfect myself further.
+- I'm Manufacturing Engineer. I have strong ability for self-study and diverse range of experience in various areas of IT, OT, Automation, Security and especially in AI.
 
 - Languages: Vietnamese, English
 
