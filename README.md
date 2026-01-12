@@ -1,7 +1,7 @@
 <h1 align="center">Tuan Vuong Minh</h1>
 
 ## About me
-- I graduated from FPT University with a major in Artificial Intelligence. I am a determined and resilient individual who constantly strives for self-improvement and never backs down from challenges. With a strong passion for technology, I stay up-to-date with the latest trends in AI, robotics, automation, and semiconductors.
+- I graduated from FPT University with a major in Artificial Intelligence. I am a determined and resilient individual who constantly strives for self-improvement and never backs down from challenges.
 
 - Languages: Vietnamese, English
 
